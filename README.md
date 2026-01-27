@@ -1,3 +1,4 @@
+assets/logo.png
 <p align="center">
   <img src="assets/logo.png" alt="Green Land Travels & Placement Services Logo" width="180">
 </p>
