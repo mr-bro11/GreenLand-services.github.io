@@ -1,7 +1,11 @@
 <!-- HERO SECTION -->
 <section style="text-align:center; background: linear-gradient(135deg, #a8e6cf, #dcedc1); padding: 50px 20px; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
-
-  <img src="https://github.com/mr-bro11/mr-bro11.github.io/blob/main/gtsp-removebg-preview.png" alt="Green Land Logo" width="180" style="border-radius: 20px; border: 3px solid #4CAF50; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+  <p align="center">
+  <img src="https://github.com/mr-bro11/mr-bro11.github.io/blob/main/gtsp-removebg-preview.png" 
+       alt="Green Land Travels & Placement Services Logo" 
+       width="120" height="120" 
+       style="border-radius:20px; border:2px solid #4CAF50; box-shadow:0 4px 15px rgba(0,0,0,0.2); object-fit: contain;">
+</p>
   
   <h1 style="font-family: 'Arial', sans-serif; font-weight: 700; color: #2e7d32; margin-top:20px;">🌿 Green Land Travels & Placement Services</h1>
   
@@ -87,16 +91,15 @@ Green Land Travels & Placement Services is a trusted travel and HR placement ser
 </section>
 
 ---
-
 <!-- GALLERY -->
 <section style="background:#e8f5e9; padding:50px 20px;">
 <h2 style="text-align:center; color:#2e7d32;">📸 Gallery Highlights</h2>
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px; margin-top:30px;">
-  <img src="assets/gallery1.jpg" width="220" style="border-radius:15px; border:3px solid #4CAF50; box-shadow:0 5px 15px rgba(0,0,0,0.2);">
-  <img src="assets/gallery2.jpg" width="220" style="border-radius:15px; border:3px solid #4CAF50; box-shadow:0 5px 15px rgba(0,0,0,0.2);">
-  <img src="assets/gallery3.jpg" width="220" style="border-radius:15px; border:3px solid #4CAF50; box-shadow:0 5px 15px rgba(0,0,0,0.2);">
-  <img src="assets/gallery4.jpg" width="220" style="border-radius:15px; border:3px solid #4CAF50; box-shadow:0 5px 15px rgba(0,0,0,0.2);">
+  <img src="https://github.com/mr-bro11/mr-bro11.github.io/blob/main/Screenshot%202026-01-27%20194721.png" width="220" style="border-radius:15px; border:3px solid #4CAF50; box-shadow:0 5px 15px rgba(0,0,0,0.2);">
+  <img src="https://github.com/mr-bro11/mr-bro11.github.io/blob/main/Boudhanath%20Stupa%20-%20Photo%20%23935%20-%20%20Evening%20time%20at%20Boudhanath%20Stupa_%20-%20%20Official%20photo-sharing%20platform%20of%20Nepal%20Tourism%20Board.jpg"width="220" style="border-radius:15px; border:3px solid #4CAF50; box-shadow:0 5px 15px rgba(0,0,0,0.2);">
+  <img src="https://github.com/mr-bro11/mr-bro11.github.io/blob/main/Chobhar%20Kathmandu%2C%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5%20Photo%20by%20_%20Ajaya%20singh.jpg" width="220" style="border-radius:15px; border:3px solid #4CAF50; box-shadow:0 5px 15px rgba(0,0,0,0.2);">
+  <img src="https://github.com/mr-bro11/mr-bro11.github.io/blob/main/Best%20Places%20to%20Trek%20in%20Nepal_%20Top%20Himalayan%20Treks.jpg" width="220" style="border-radius:15px; border:3px solid #4CAF50; box-shadow:0 5px 15px rgba(0,0,0,0.2);">
 </div>
 </section>
 
@@ -108,7 +111,7 @@ Green Land Travels & Placement Services is a trusted travel and HR placement ser
 
 <div style="display:inline-block; text-align:left; padding:30px; border-radius:15px; border:2px dashed #4CAF50; background:white; box-shadow:0 5px 20px rgba(0,0,0,0.1);">
 <p>📧 <b>Email:</b> landg9770@gmail.com</p>
-<p>📞 <b>Phone:</b> +</p>
+<p>📞 <b>Phone:</b> +91 8167558694 </p>
 <p>🏢 <b>Address:</b> Kathmandu, Nepal</p>
 <a href="#" style="display:inline-block; margin-top:10px; padding:10px 20px; background-color:#4CAF50; color:white; border-radius:20px; font-weight:bold; text-decoration:none;">Get in Touch</a>
 </div>
