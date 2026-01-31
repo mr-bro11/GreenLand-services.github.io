@@ -112,7 +112,7 @@ Green Land Travels & Placement Services is a trusted travel and HR placement ser
 <div style="display:inline-block; text-align:left; padding:30px; border-radius:15px; border:2px dashed #4CAF50; background:white; box-shadow:0 5px 20px rgba(0,0,0,0.1);">
 <p>📧 <b>Email:</b> landg9770@gmail.com</p>
 <p>📞 <b>Phone:</b> +91 8167558694 </p>
-<p>🏢 <b>Address:</b> Kathmandu, Nepal</p>
+<p>🏢 <b>Address:</b> Anchal Champasari, Darjeeling</p>
 <a href="#" style="display:inline-block; margin-top:10px; padding:10px 20px; background-color:#4CAF50; color:white; border-radius:20px; font-weight:bold; text-decoration:none;">Get in Touch</a>
 </div>
 </section>
