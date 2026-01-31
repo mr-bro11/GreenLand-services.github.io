@@ -74,7 +74,7 @@ Green Land Travels & Placement Services is a trusted travel and HR placement ser
 
 <!-- WHY Green Land -->
 <section style="padding:50px 20px;">
-<h2 style="text-align:center; color:#2e7d32;">🌟 Why Choose Us?</h2>
+<h2 style="text-align:center; color:#2e7d32;">🌟 Why Green Land ?</h2>
 
 <ul style="max-width:700px; margin:auto; font-size:16px; line-height:1.8; color:#555;">
 <li>Trusted & customer-focused service</li>
