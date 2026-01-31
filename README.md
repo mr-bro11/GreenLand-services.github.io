@@ -9,7 +9,7 @@
   
   <h1 style="font-family: 'Arial', sans-serif; font-weight: 700; color: #2e7d32; margin-top:20px;">🌿 Green Land Travels & Placement Services</h1>
   
-  <p style="font-size: 18px; color: #555;">Reliable Travel & HR Placement Services in Nepal 🇳🇵</p>
+  <p style="font-size: 18px; color: #555;">Reliable Travel & HR Placement Services</p>
   
   <a href="#contact" style="display:inline-block; margin-top:20px; padding: 12px 25px; background-color: #4CAF50; color:white; border-radius: 25px; font-weight:bold; text-decoration:none; box-shadow:0 4px 10px rgba(0,0,0,0.2); transition:0.3s;">Book Now ✈️</a>
 </section>
