@@ -20,7 +20,7 @@
 <section style="padding: 40px 20px;">
 <h2 style="text-align:center; color:#2e7d32;">🌏 About Us</h2>
 <p style="max-width:800px; margin:auto; text-align:center; font-size:16px; color:#555;">
-Green Land Travels & Placement Services is a trusted travel and HR placement service in Nepal 🇳🇵. We ensure safe, affordable, and well-managed travel arrangements along with reliable workforce solutions for businesses and individuals.
+Green Land Travels & Placement Services is a trusted travel and HR placement services. We ensure safe, affordable, and well-managed travel arrangements along with reliable workforce solutions for businesses and individuals.
 </p>
 
 <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px; margin-top:30px;">
@@ -72,7 +72,7 @@ Green Land Travels & Placement Services is a trusted travel and HR placement ser
 
 ---
 
-<!-- WHY CHOOSE US -->
+<!-- WHY Green Land -->
 <section style="padding:50px 20px;">
 <h2 style="text-align:center; color:#2e7d32;">🌟 Why Choose Us?</h2>
 
